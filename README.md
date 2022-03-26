@@ -12,4 +12,5 @@ The mian.dll in the C++ source folder is a compiled file and can be used in GMS2
 
 
 ----------------------- 2022/3/27 0:36 -------------------------
+
 去除协议头方面依然有一个很严重的BUG，现已修复
