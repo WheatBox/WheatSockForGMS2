@@ -1,6 +1,4 @@
 # WheatSockForGMS2
-Just a web file downloader for GMS2
-
 
 The mian.dll in the C++ source folder is a compiled file and can be used in GMS2.
 
